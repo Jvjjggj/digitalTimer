@@ -1,0 +1,36 @@
+.mainDiv {
+  background-image: linear-gradient(to right, #defafe, #cffcf1);
+  height: 100vh;
+  padding: 50px 10px 50px 20px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.head {
+  text-align: center;
+}
+
+.timeDiv {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/digital-timer-elapsed-bg.png');
+  background-size: cover;
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50vh;
+  margin-right: 50px;
+}
+
+.div1 {
+  display: flex;
+}
+.mainDivv {
+  display: flex;
+}
+.img {
+  height: 1rem;
+}
+.twoBtn {
+  display: flex;
+}
